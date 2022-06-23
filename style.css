@@ -9,9 +9,11 @@
   
   body {
     height: 100vh;
-    background: #ff6600;
     display: grid;
+    background-image: url(niver.jpg);
     align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   h1{
       text-align: center;
